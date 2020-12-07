@@ -1,0 +1,41 @@
+
+    <SeekBar
+        android:id="@+id/sb_verde"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_azul"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/color_azul" />
+
+    <SeekBar
+        android:id="@+id/sb_azul"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:scrollbarSize="30dp" />
+
+    <SeekBar
+        android:id="@+id/sb_rojo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_rojo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/color_rojo" />
+
+    <TextView
+        android:id="@+id/tv_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/color_final" />
+
+    <TextView
+        android:id="@+id/tv_verde"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/color_verde" />

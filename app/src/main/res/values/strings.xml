@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SelectorColor</string>
+    <string name="color_final">Color: #FFFFFF</string>
+    <string name="color_rojo">Rojo: 255 </string>
+    <string name="color_verde">Verde: 255 </string>
+    <string name="color_azul">Azul: 255 </string>
+</resources>
